@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10342" started-at="2020-11-13T23:03:32 IST" finished-at="2020-11-13T23:03:42 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10342" started-at="2020-11-13T23:03:32 IST" finished-at="2020-11-13T23:03:42 IST">
+      <class name="Acadamy.E2EProject.validateTitle">
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:Acadamy.E2EProject.validateTitle@3dfc5fb8]" name="basePageNavigation" duration-ms="10268" started-at="2020-11-13T23:03:32 IST" finished-at="2020-11-13T23:03:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- Acadamy.E2EProject.validateTitle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
